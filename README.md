@@ -16,6 +16,6 @@ Syftet är att undervisa om Erik XIV´s död som en teori lyder att man förgift
 
 
 ## Mockup 
-![Test Image 4]()
+![Test Image 4](/iPhone.png)
 
  
